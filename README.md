@@ -33,7 +33,6 @@ I'm passionate about creating beautiful, functional web experiences that combine
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
